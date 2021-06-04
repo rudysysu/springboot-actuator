@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dy</groupId>
-    <artifactId>dy-sample-springboot-actuators</artifactId>
+    <artifactId>dy-actuator</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -13,7 +13,7 @@
         <java.version>1.8</java.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <main.class>com.dy.sample.actuator.ActuatorApp</main.class>
+        <main.class>com.dy.actuator.ActuatorApp</main.class>
     </properties>
 
     <dependencyManagement>
