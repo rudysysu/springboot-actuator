@@ -1,5 +1,7 @@
+## Metrics
 http://127.0.0.1:8080/metrics
 
+```json
 {
 	"mem": 251939,
 	"mem.free": 117202,
@@ -29,3 +31,4 @@ http://127.0.0.1:8080/metrics
 	"httpsessions.max": -1,
 	"httpsessions.active": 0
 }
+```
